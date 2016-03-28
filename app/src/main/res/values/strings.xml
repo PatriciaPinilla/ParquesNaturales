@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PARQUES NATURALES</string>
+    <string-array name="Lista">
+        <item>PARQUE NATURAL DE CHICAQUE</item>
+        <item>PARQUE NACIONAL NATURAL PURACE</item>
+        <item>PARQUE NACIONAL NATURAL LOS NEVADOS</item>
+    </string-array>
+
+
+</resources>
