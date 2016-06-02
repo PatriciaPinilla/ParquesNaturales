@@ -19,7 +19,7 @@ import java.lang.*;
                 public void onLocationChanged(Location location) {
         }
 
-
+        // PERMISOS INTERNET
         public void onProviderDisable(String provider) {
         }
 
