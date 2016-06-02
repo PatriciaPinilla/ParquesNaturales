@@ -5,6 +5,7 @@
         <item>PARQUE NACIONAL NATURAL PURACE</item>
         <item>PARQUE NACIONAL NATURAL LOS NEVADOS</item>
     </string-array>
+    <string name="title_activity_maps">Map</string>
 
 
 </resources>
