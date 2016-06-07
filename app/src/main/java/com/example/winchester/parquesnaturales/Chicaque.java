@@ -48,7 +48,8 @@ import java.lang.*;
         }
 
         public void B_UBICACION(View Next) {
-            Intent intent = new Intent(this, ServChicaque.class); // Crear ubicación en mapa pdte
+
+            Intent intent = new Intent(this, MapsActivity.class); // ubicación en mapa
             startActivity(intent);
         }
     }
